@@ -14,18 +14,21 @@ Cuando se arranca el sistema, este inicialmente mostrara un interfaz con un pane
 
 Primero se eleige el rol en el cual se va a iniciar sesión ysegún sea el en el que se inicie sesión. Este mostrara una ventana con las caracteristicas correspondienes, por ejemplo el administrador y quedaría de la siguiente forma. 
 
-![image](https://github.com/user-attachments/assets/0c826b75-8bf4-41ef-93f8-ed3aa8cc1015)
+
+![image](https://github.com/user-attachments/assets/841f2ceb-e286-4389-84d9-7eb0e23bf02b)
+
 
 Entrando en el entorno del rol de administrador, se pueden ejecutar 3 principales pestañas, las cuales principalemnte son de  gestion y pueden ser modificados según sea necesario.
 
-![image](https://github.com/user-attachments/assets/04fe0d9f-02d7-4e10-8d99-372f115d6ba1)
+
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/e854f599-835c-4a4f-b7d9-6ebe33b91c66" />
 
 
 Entrando a la ventana de gestión de usuarios, tenemos una interfaz con la posibilidad de editar, actualizar y eliminar los campos de la tabla y poder gestionar la variedad de base de datos y se 
  ve de la siguiente forma. 
 
 
-![image](https://github.com/user-attachments/assets/9b623016-c87e-4404-b725-c917eb3b710a)
+![Uploading image.png…]()
 
 
 Este es la interfaz de la gestión de inventario, en la cual podemos editar el stock de los materiales que estén en la agregados en la tabla y pueden ser manipulados según sea el registro del administrador, de esta forma nuestra tienda tiene un complemento con  ayuda de las componentes que pueden ser gestionadas dentro de la tienda.
