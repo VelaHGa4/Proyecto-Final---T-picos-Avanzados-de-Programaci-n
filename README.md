@@ -14,7 +14,8 @@ Cuando se arranca el sistema, este inicialmente mostrara un interfaz con un pane
 
 Primero se eleige el rol en el cual se va a iniciar sesión ysegún sea el en el que se inicie sesión. Este mostrara una ventana con las caracteristicas correspondienes, por ejemplo el administrador y quedaría de la siguiente forma. 
 
-![image](https://github.com/user-attachments/assets/0c826b75-8bf4-41ef-93f8-ed3aa8cc1015)
+![image](https://github.com/user-attachments/assets/cf7865f4-abb6-494f-aeaf-61681e6cd08e)
+
 
 Entrando en el entorno del rol de administrador, se pueden ejecutar 3 principales pestañas, las cuales principalemnte son de  gestion y pueden ser modificados según sea necesario.
 
