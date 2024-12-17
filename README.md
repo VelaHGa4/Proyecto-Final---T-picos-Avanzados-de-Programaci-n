@@ -8,7 +8,9 @@ Y nuestro sistema queda desarrollado de la siguiente forma:
 
 Cuando se arranca el sistema, este inicialmente mostrara un interfaz con un panel de inicio de sesión. Como se ve a continuación.
 
-![image](https://github.com/user-attachments/assets/32de2d48-3bdc-42a8-99e7-39190810b2d1)
+
+![image](https://github.com/user-attachments/assets/d652e2bd-df61-4e8b-ac50-5a3fee0c04d9)
+
 
 Primero se eleige el rol en el cual se va a iniciar sesión ysegún sea el en el que se inicie sesión. Este mostrara una ventana con las caracteristicas correspondienes, por ejemplo el administrador y quedaría de la siguiente forma. 
 
